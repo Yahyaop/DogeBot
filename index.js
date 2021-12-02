@@ -1,6 +1,6 @@
 // Script by yahya 
 // 𝐃𝐨𝐠𝐞 𝐁𝐨𝐭
-// ©Yahya Bot Incorporated
+// ©Dabdoby Bot Incorporated
 const {
   WAConnection: _WAConnection,
   MessageType,
